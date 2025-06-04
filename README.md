@@ -20,7 +20,7 @@ animations, anti-cheat protection, and Discord logging. Players must have their 
 
 - Optimized Performance - Lightweight code with fast server response
 
-[Download](https://github.com/Facelessxxx/-Release-FearX-OxRob)
+[Download](https://github.com/Facelessxxx/-Release-FearX-OxRob/releases)
 
 @everyone 
 
